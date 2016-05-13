@@ -1,0 +1,28 @@
+# input.txt
+# CISC3130 Assignment #4   M. Lowenthal
+# Robert Wagner
+# 03/25/2016
+#
+
+set 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 end
+insert 21 delete 1 insert 0 delete 10
+delete 11 delete 5 delete 2 insert 10
+
+set 3 1 5 end
+delete 3 delete 1
+
+set end
+delete 15 insert 30 insert 5 insert 10 insert 20
+delete 20 delete 10 delete 5 delete 15 delete 30
+
+set 2 end
+delete 2
+
+set 11 25 75 12 37 60 90 8 15 32 45 50 67 97 95 end
+delete 37 delete 15 insert 40 insert 99
+
+set 50 40 60 30 70 20 80 10 90 end
+
+set 30 40 20 10 50 end
+
+
