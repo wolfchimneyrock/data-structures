@@ -1,0 +1,33 @@
+# Robert Wagner
+# CISC 3130 Brooklyn college M. Lowenthal
+# assignment #5
+# my mother's side of the family
+
+the family started with James in 1917.
+James had Jimmy in 1943, Roy in 1946, Clara in 1950, Emily in 1952, Danny in 1955, Janet in 1962, and Steven in 1969.
+Jimmy had Michael in 1974.
+Roy had Whit in 1981 and Haley in 1983.
+Clara had Lance in 1972, Paul in 1977, Laura in 1980, and Bonnie in 1984.
+Emily had John in 1972, Julie in 1978, Robert in 1979, and William in 1986.
+Danny had Amanda in 1990 and DJ in 1994.
+Janet had Mark in 1987, Zach in 1997, and Brooke in 2001.
+John had Grace in 1999.
+Laura had Josephine in 2010 and Evelyn in 2012.
+Lance had Matthew in 1997, Heidi in 2000, Camille in 2002, Alain in 2005, and Nicholas in 2008.
+
+who are Clara's grandchildren?
+who is Brooke's grandparent?
+who is Robert's oldest sibling's child?
+who are Danny's older sibling's children?
+who is Nicholas's grandparent?
+who are Heidi's uncles?
+who are Grace's uncles?
+who are DJ's parent's older siblings?
+who are Bonnie's sibling's children?
+who is James's oldest grandchild?
+who is Clara's youngest grandchild?
+who is Evelyn's great-grandparent?
+who is Grace's youngest great-uncle?
+who are Zach's older cousins?
+who are William's younger cousins?
+who is Amanda's youngest older cousin?
