@@ -1,0 +1,89 @@
+
+[   8] P		2.00	7.00	8.50
+
+[  10] S New York	23	14	1
+  *** New York       new qty: 23 14  1 ***
+
+[  11] S Miami		25	25	25
+  *** Miami          new qty: 25 25 25 ***
+
+[  12] S Los Angeles	40	13	17
+  *** Los Angeles    new qty: 40 13 17 ***
+
+[  13] S Houston	100	30	10
+  *** Houston        new qty: 100  30  10 ***
+
+[  14] S Chicago	42	23	19
+  *** Chicago        new qty: 42 23 19 ***
+
+[  15] S New York	0	0	15
+  *** New York       new qty: 23 14 16 ***
+
+[  16] S Miami		13	17	21
+  *** Miami          new qty: 38 42 46 ***
+
+[  17] O Los Angeles	15	10	15
+  *** Los Angeles    new qty: 25  3  2 ***
+  Price of Order: $227.50
+
+[  18] O New York	12	24	8
+  10   of item    2 shipped from  Miami          to  New York      
+  *** Miami          new qty: 38 32 46 ***
+  *** New York       new qty: 11  0  8 ***
+  Price of Order: $267.00
+
+[  19] O Houston	75	45	10
+  15   of item    2 shipped from  Miami          to  Houston       
+  *** Miami          new qty: 38 17 46 ***
+  *** Houston        new qty: 25  0  0 ***
+  Price of Order: $560.50
+
+[  20] O Chicago	20	15	15
+  *** Chicago        new qty: 22  8  4 ***
+  Price of Order: $272.50
+
+[  21] O New York	15	0	0
+  4    of item    1 shipped from  Miami          to  New York      
+  *** Miami          new qty: 34 17 46 ***
+  *** New York       new qty: 0 0 8 ***
+  Price of Order: $30.80
+
+[  22] S Los Angeles	10	20	10
+  *** Los Angeles    new qty: 35 23 12 ***
+
+[  23] S Houston	0	30	40
+  *** Houston        new qty: 25 30 40 ***
+
+[  24] O New York	15	15	25
+  17   of item    3 shipped from  Miami          to  New York      
+  *** Miami          new qty: 34 17 29 ***
+  15   of item    1 shipped from  Los Angeles    to  New York      
+  *** Los Angeles    new qty: 20 23 12 ***
+  15   of item    2 shipped from  Houston        to  New York      
+  *** Houston        new qty: 25 15 40 ***
+  *** New York       new qty: 0 0 0 ***
+  Price of Order: $375.45
+
+[  25] O Chicago	75	30	40
+  !!! Order unfilled for item 1 !!!
+  22   of item    2 shipped from  Los Angeles    to  Chicago       
+  *** Los Angeles    new qty: 20  1 12 ***
+  36   of item    3 shipped from  Houston        to  Chicago       
+  *** Houston        new qty: 25 15  4 ***
+  *** Chicago        new qty: 22  0  0 ***
+  Price of Order: $596.00
+
+[  26] S New York	20	15	20
+  *** New York       new qty: 20 15 20 ***
+
+[  27] O Houston	10	20	10
+  5    of item    2 shipped from  Miami          to  Houston       
+  6    of item    3 shipped from  Miami          to  Houston       
+  *** Miami          new qty: 34 12 23 ***
+  *** Houston        new qty: 15  0  0 ***
+  Price of Order: $253.60
+
+     Total Shipments     30
+        Total Orders     24
+     Total Transfers     10 [41.00%]
+      Total Unfilled      1 [ 4.00%]
