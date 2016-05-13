@@ -48,7 +48,6 @@ int main(int argc, char *argv[]) {
     if (showPrompt) output << fmtPrompt;
     while (getline(*inFileP, line)) {
         ++lineNo;
-        if (!showPrompt) output << fmtEcho % lineNo % fmtPrompt % line;
         parser.reset();
         tokens.clear();
         if (line.size()  ==  0 ) { 
@@ -59,6 +58,7 @@ int main(int argc, char *argv[]) {
             if (showPrompt) output << fmtPrompt;
             continue;  // skip comments
         }
+        if (!showPrompt) output << fmtEcho % lineNo % fmtPrompt % line;
         split(tokens, line, boost::is_any_of(ws), boost::token_compress_on);
         for (auto token : tokens) parser(token);
         parser.finalize();
